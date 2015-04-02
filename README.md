@@ -12,12 +12,7 @@ One day I mustered the courage  to step out of my box with my letters and labels
 and help someone with there computer. I had a drive to do more rewarding work and
 knew that I could be of much help in any part of this company. I don't know why
 I never thought to delve deeper into computers as a career because I was already a 
-nerd and spent most of my free time on the computer. One day Larry the I.T manager 
-made a joke about how he gets no help in his department, and my co-worker Krista
-who I helped many times made a comment that I knew a lot about computers. Well the 
-next day Larry came to me and told me that I would no longer be working on 
-letters and that I was to move my things to the cubicle in his office. I was soo 
-excited! Now it is 2 years later and I am looking to further my career. I plan to
+nerd and spent most of my free time on the computer. Now it is 2 years later and I am looking to further my career. I plan to
 get a few certifications from Microsoft and teach myself how to program. I know 
 that I will need a lot of help along the way and I hope I can find support in 
 this community!
