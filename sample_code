@@ -1,0 +1,7 @@
+# Today I learned about the difference between integers and floaters when writing code.
+
+# Examples
+#This is how I found out how many seconds are in a year.
+puts 24 * 60
+puts ((24 * 60) * 60)
+puts (((24 * 60) * 60) * 365)
