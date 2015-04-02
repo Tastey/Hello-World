@@ -5,3 +5,6 @@
 puts 24 * 60
 puts ((24 * 60) * 60)
 puts (((24 * 60) * 60) * 365)
+
+
+# I am now working on the chapter about strings. 
